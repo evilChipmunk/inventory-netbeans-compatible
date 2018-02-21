@@ -1,0 +1,22 @@
+.root{
+
+    display: block;
+    -fx-font-size: 11pt;
+    -fx-font-family: "Verdana";
+}
+
+.fontStyle{
+    -fx-font-size: 10;
+}
+
+.headerBox{
+    -fx-padding: 15;
+    -fx-spacing: 10;
+}
+.title{
+    -fx-font-size: 25;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-text-fill:   #1c0a6a;
+
+}
